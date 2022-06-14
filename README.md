@@ -8,7 +8,7 @@ Performed data analysis on weather data in Oahu to determine if the surf and ice
 - Software: VScode
 
 ## Summary
-The weather data shows that the average temperature in Oahu is fairly constant throughout the year with an average temperature range between 70 to 76 degrees and a max temperature range between 82 to 85 degrees.  The weather is consistent enough in Oahu to sustain a surf and ice cream shop year-round.
+The weather data shows that the temperature in Oahu is fairly constant throughout the year with an average temperature range between 70 to 76 degrees and a max temperature range between 82 to 85 degrees.  The weather is consistent enough in Oahu to sustain a surf and ice cream shop year-round.
  
 ### March Temperature
 ![March_Temps](https://github.com/frlinh/surfs-up/blob/b7c89b8eb2e4e608599f5f33235eb76b13576b12/March%20Temps.png)
