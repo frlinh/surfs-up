@@ -25,4 +25,4 @@ The weather data shows that the temperature in Oahu is fairly constant throughou
 ### Key differences
 - The average temperatures in June and September are higher than in March and December
 - The max temperatures in June and September are also higher than in March and December
-- The month of September and December has a lower temperature count than in March and June
+- The temperature in September and December are lower than in March and June
